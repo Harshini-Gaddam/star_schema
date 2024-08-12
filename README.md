@@ -4,7 +4,7 @@ This project transforms the original DVD rental database schema into a star sche
 
 ## Overview
 
-The DVD rental star schema is based on the sample database provided by PostgreSQL.\ 
+The DVD rental star schema is based on the sample database provided by PostgreSQL. <br>  
 It reorganizes the data into a set of fact and dimension tables, following dimensional modeling principles to improve query performance and simplify complex analyses.
 
 ## What is a Star Schema?
